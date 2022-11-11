@@ -4,6 +4,8 @@ EXPOSE 3001
 
 ADD node_modules.tar.gz .
 
+WORKDIR /
+
 COPY package-lock.json .
 COPY package.json .
 COPY .gitignore .
