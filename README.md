@@ -1,6 +1,6 @@
 # ✅ Docker To Do List ✅ # 
 ## 📝 Contexto: 
-* Projeto individual realizado no bloco de Front-end do curso de desenvolvimento Web da
+* Projeto individual realizado no bloco de Back-end do curso de desenvolvimento Web da
 <a href="https://www.betrybe.com/">Trybe</a>
 ## 🎯 Objetivos: 
 * Concluir uma série de desafios usando comandos do
